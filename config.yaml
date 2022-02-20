@@ -178,18 +178,15 @@ menu:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
               icon: home
-- identifier: 名字
-          name: 名字
-          url: /posts/
-### Url里填要跳转的目录，注意这里/表示 网站根目录/content
-          weight: 300
-### weight是一个整数(最好填正数罢)数越大菜单项越在下面
+			  
+        - identifier: about
+          name: 关于
+          url: /
+          weight: 900
           params:
-            icon: infinity
-### icon(图标)位于网站根目录/themes/hugo-theme-stack/assets/icons/，输入不带后缀的文件名，当然你也可以自己添加图标
-            newTab: false
-### newTab为true时点击会打开新标签页
-
+              ### For demonstration purpose, the home link will be open in a new tab
+              newTab: false
+              icon: user
     
     social:
         - identifier: github
