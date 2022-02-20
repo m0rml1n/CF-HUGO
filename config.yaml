@@ -178,7 +178,7 @@ menu:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
               icon: home
-			  
+
         - identifier: about
           name: 关于
           url: /
@@ -187,7 +187,7 @@ menu:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
               icon: user
-    
+
     social:
         - identifier: github
           name: GitHub
