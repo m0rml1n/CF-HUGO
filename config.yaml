@@ -99,7 +99,7 @@ params:
                 admin: Admin
 
         twikoo:
-            envId: twikoo-2g36bkuz88660f27
+            envId: blog-e8428a
             region:
             path:
             lang:
@@ -178,15 +178,6 @@ menu:
               ### For demonstration purpose, the home link will be open in a new tab
               newTab: false
               icon: home
-
-        - identifier: about
-          name: 关于
-          url: /
-          weight: 900
-          params:
-              ### For demonstration purpose, the home link will be open in a new tab
-              newTab: false
-              icon: user
 
     social:
         - identifier: github
