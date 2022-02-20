@@ -42,8 +42,8 @@ params:
         subtitle: 瑟瑟发抖的萌新OvO
         avatar:
             enabled: true
-            local: true
-            src: img/avatar.jpg
+            local: false
+            src: https://nai.si/avatar.jpg
 
     article:
         math: false
