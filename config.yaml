@@ -179,10 +179,10 @@ menu:
               newTab: false
               icon: home
 			  
-		- identifier: 关于
+		- identifier: about
           name: 关于
-          url: /about
-          weight: -100
+          url: /about/
+          weight: 900
           params:
               newTab: false
               icon: user
