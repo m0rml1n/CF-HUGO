@@ -100,8 +100,8 @@ params:
 
         twikoo:
             envId: blog-e8428a
-            region:
-            path:
+            region: ap-shanghai
+            path: window.TWIKOO_MAGIC_PATH||window.location.pathname
             lang:
 
         giscus:
