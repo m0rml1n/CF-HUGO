@@ -39,9 +39,9 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 瑟瑟发抖的萌新OvO
         avatar:
-            enabled: false
+            enabled: true
             local: true
             src: img/avatar.jpg
 
